@@ -59,5 +59,14 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: a760ab2574803af49907ccaa732acec8, type: 2}
-    m_RemovedComponents: []
+    - target: {fileID: 7370379785592280781, guid: e6ca378d10380194ea089a10be02d95b, type: 3}
+      propertyPath: animators.Array.size
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 8640750929538543964, guid: e6ca378d10380194ea089a10be02d95b, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 75d3a58b3d7879f41926561701407a48, type: 2}
+    m_RemovedComponents:
+    - {fileID: 7510185551397014536, guid: e6ca378d10380194ea089a10be02d95b, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: e6ca378d10380194ea089a10be02d95b, type: 3}
